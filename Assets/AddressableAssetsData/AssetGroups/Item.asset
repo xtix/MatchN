@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Item
+  m_EditorClassIdentifier: 
+  m_GroupName: Item
+  m_Data:
+    m_SerializedData: []
+  m_GUID: e3af28af5e9c8944495998f721eb19f2
+  m_SerializeEntries:
+  - m_GUID: 479bafbecb27257488eb2347cd33fc76
+    m_Address: Item/Materials/DestroyVfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: eb246279cb1e2234a856be0c8aa9a78b
+    m_Address: Item/Materials/Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: cee932a3ff9b5df4eb64cfc16698ee13
+    m_Address: Item/Prefabs/DestroyVfx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 112df6b9b0e1bd0488816994f1115541
+    m_Address: Item/Prefabs/Item
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1db77731c6354e34f814df1433927926, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 7fb05d17a36a404489a858ce61562b9e, type: 2}
+    - {fileID: 11400000, guid: 30ea0ecc46024084bbe745915c9d0fec, type: 2}

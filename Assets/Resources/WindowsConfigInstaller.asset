@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f7cde486fe24c03b6eaae6303443033, type: 3}
+  m_Name: WindowsConfigInstaller
+  m_EditorClassIdentifier: 
+  _windowsConfig:
+    _windowList:
+    - _windowId: 1
+      _asset:
+        m_AssetGUID: 74481259a5c021a45a78d42c7d9fdb66
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0

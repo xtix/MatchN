@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: UI
+  m_EditorClassIdentifier: 
+  m_GroupName: UI
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 436a4f4e46d409c4b9a03bc1ad5e7141
+  m_SerializeEntries:
+  - m_GUID: fa7709f5a074e6a429f532a58f56cfae
+    m_Address: UI/Prefabs/UIRoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 56f6b15d6880beb45b15e4ab534c635e
+    m_Address: UI/Prefabs/Hud
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 74481259a5c021a45a78d42c7d9fdb66
+    m_Address: UI/Prefabs/Windows/Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1d9dc796b74f3e74da697ee9e853c18b
+    m_Address: UI/Prefabs/Elements/MenuButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1e8b7e40e1e746048ad5eb7c2bcfcd79
+    m_Address: UI/Prefabs/Elements/RestartButton
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 18c6d613d5aa01b4191ce1f7356f47c7
+    m_Address: UI/Prefabs/Elements/Score
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 1db77731c6354e34f814df1433927926, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6e6ca080cf624c047b8b3c84d1c99ba5, type: 2}
+    - {fileID: 11400000, guid: fef6f3428583b714d8750289de5995de, type: 2}
